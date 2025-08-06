@@ -1,0 +1,37 @@
+*{
+  margin:0%;
+  padding:0%;
+  box-sizing:border-box;
+
+}
+.r1
+{
+  background-color: blueviolet;
+  padding :10px;
+  color :white;
+  display:flex;
+
+
+}
+.c1
+{
+  flex:25%;
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
+.c2
+{
+  flex:75%;
+  background-color: yellow;
+padding:10px;
+}
+.m1{
+  background-color: black;
+  padding: 10px;
+  text-align:center;
+}
+.m2{
+  padding:10px;
+  
+}
